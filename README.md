@@ -22,7 +22,7 @@ provides an easy way of manipulating FTP transfers.
 # Usage
 
 ## Initialization
-To crate an instance of the wrapper use the following code:
+To create an instance of the wrapper use the following code:
 
 ```javascript
 var ftpClient = require('ftp-client'),
